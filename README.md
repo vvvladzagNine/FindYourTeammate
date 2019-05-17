@@ -1,2 +1,2 @@
 # FindYourTeammate
-Web-service
+Spring Boot / Spring JPA / Spring MVC / Spring Security
